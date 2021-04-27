@@ -1,0 +1,1 @@
+0 * * * * /git-mirror/update_mirror.sh $SOURCE_REPO $DESTINATION_REPO
